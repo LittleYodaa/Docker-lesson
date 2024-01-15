@@ -1,7 +1,7 @@
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://80.211.194.16:5432/dockerlessondb
+    url: jdbc:postgresql://postgres-dockerlesson:5432/dockerlessondb
     username: root
     password: haslo
 
