@@ -1,7 +1,7 @@
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:posgresql://80.211.194.16:5432/mercury
+    url: jdbc:postgresql://80.211.194.16:5432/mercury
     username: root
     password: haslo
 
